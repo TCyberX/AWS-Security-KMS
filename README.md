@@ -1,6 +1,6 @@
 
 
-# Encrypt Data with AWS KMS
+# Encrypt Data with AWS KMS (Key Management Service)
 
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-security-kms)
 
